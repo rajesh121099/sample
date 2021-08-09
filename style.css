@@ -1,0 +1,17 @@
+.pad{
+    text-align: center;
+    
+}
+
+.box{text-align: center;
+    box-shadow: 5px 10px #888888;
+    background-color: rgb(211, 211, 211);
+    width: 500px;
+    border: 20px solid rgb(102, 0, 128);
+    padding: 50px;
+    margin: 20px;
+}
+
+.move{
+    padding-left: 600px;
+}
